@@ -2,6 +2,7 @@
 
 A computer vision project where the user selects an object in the first video frame, then the system tracks it throughout the rest of the video.
 
+
 This project demonstrates the basic workflow of object tracking in video processing, including frame reading, target selection, tracker initialization, and continuous object localization across frames.
 
 ---
